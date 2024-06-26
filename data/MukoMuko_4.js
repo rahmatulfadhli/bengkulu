@@ -1,0 +1,1 @@
+var json_MukoMuko_4 = {"type":"FeatureCollection","name":"MukoMuko_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"4","Deskripsi":null},"geometry":{"type":"Point","coordinates":[101.068809406317584,-2.522337851716507]}}]}

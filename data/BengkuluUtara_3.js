@@ -1,0 +1,1 @@
+var json_BengkuluUtara_3 = {"type":"FeatureCollection","name":"BengkuluUtara_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Deskripsi":null},"geometry":{"type":"Point","coordinates":[102.232033462508937,-5.385857544322374]}}]}
